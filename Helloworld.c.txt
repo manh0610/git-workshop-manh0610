@@ -2,5 +2,6 @@
 int main(){
     printf("Hello World");
     printf("Duc manh");
+    printf("DM may nhu l");
     return 0;
 }
